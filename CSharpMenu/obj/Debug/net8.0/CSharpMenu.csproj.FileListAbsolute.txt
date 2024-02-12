@@ -1,0 +1,14 @@
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\bin\Debug\net8.0\CSharpMenu.exe
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\bin\Debug\net8.0\CSharpMenu.deps.json
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\bin\Debug\net8.0\CSharpMenu.runtimeconfig.json
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\bin\Debug\net8.0\CSharpMenu.dll
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\bin\Debug\net8.0\CSharpMenu.pdb
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\obj\Debug\net8.0\CSharpMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\obj\Debug\net8.0\CSharpMenu.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\obj\Debug\net8.0\CSharpMenu.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\obj\Debug\net8.0\CSharpMenu.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\obj\Debug\net8.0\CSharpMenu.dll
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\obj\Debug\net8.0\refint\CSharpMenu.dll
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\obj\Debug\net8.0\CSharpMenu.pdb
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\obj\Debug\net8.0\CSharpMenu.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\FS23\ASPnet\CSharpMenu\obj\Debug\net8.0\ref\CSharpMenu.dll
